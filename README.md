@@ -1,4 +1,4 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=danw567&count_private=true&show_icons=true&theme=onedark)](https://github.com/lierrmm)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=danw567&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/danw567)
 
 <!--
 **Danw567/Danw567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
